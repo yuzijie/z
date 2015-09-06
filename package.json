@@ -1,0 +1,19 @@
+{
+  "name": "z",
+  "version": "0.0.1",
+  "description": "YU ZIJIE's ultimate front end JS and CSS modules",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yuzijie/z.git"
+  },
+  "keywords": [
+    "js",
+    "css"
+  ],
+  "author": "YU ZIJIE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuzijie/z/issues"
+  },
+  "homepage": "https://github.com/yuzijie/z#readme"
+}

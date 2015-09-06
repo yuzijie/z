@@ -1,0 +1,1 @@
+Internal JS functions, used by other modules

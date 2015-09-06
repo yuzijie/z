@@ -1,0 +1,1 @@
+Fundamental modules inspired by backbone.js.
